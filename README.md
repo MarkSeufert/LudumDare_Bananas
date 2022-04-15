@@ -5,7 +5,7 @@
 ## Background
 This game was made as a part of [Ludum Dare 50](https://ldjam.com/events/ludum-dare/50/games), where we were given 48 hours to make a game about "delaying the inevitable". As we all know, there's two certainties in life: death and taxes. So in that theme, I wanted to make a game where you try and delay paying your taxes for as long as possible by fighting off tax collectors. You also sell bananas in between fights to raise enough money to buy better weapons, to survive longer. 
 
-**link to play**: https://markseufert.itch.io/death-taxes-and-bananas\ <br>
+**link to play**: https://markseufert.itch.io/death-taxes-and-bananas <br>
 **Ludum Dare submission**: https://ldjam.com/events/ludum-dare/50/death-taxes-and-bananas
 
 
